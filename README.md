@@ -1,0 +1,2 @@
+# Automated-Car-Catalog-System-for-Enhanced-Showroom-Management-Public
+The **Automated Car Catalog System for Enhanced Showroom Management** is a digital solution designed to efficiently manage vehicle inventory, customer records, and sales processes in a car showroom. It improves accuracy, reduces manual work, and provides real-time insights to enhance overall showroom performance and customer service.
